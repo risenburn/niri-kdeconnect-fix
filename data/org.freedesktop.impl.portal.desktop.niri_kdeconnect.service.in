@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.freedesktop.impl.portal.desktop.niri_kdeconnect
+Exec=@CMAKE_INSTALL_FULL_BINDIR@/niri-kdeconnect-portal
+SystemdService=niri-kdeconnect-portal.service

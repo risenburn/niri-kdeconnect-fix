@@ -1,0 +1,30 @@
+# Build directories
+/build/
+/build-*/
+cmake-build-*/
+compile_commands.json
+CMakeUserPresets.json
+
+# Editor and tooling state
+.cache/
+.ccls-cache/
+.clangd/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Crash and packaging artifacts
+core
+core.*
+*.o
+*.a
+*.so
+*.deb
+*.rpm
+*.pkg.tar.*

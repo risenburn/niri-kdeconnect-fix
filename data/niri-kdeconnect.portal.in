@@ -1,0 +1,4 @@
+[portal]
+DBusName=org.freedesktop.impl.portal.desktop.niri_kdeconnect
+Interfaces=org.freedesktop.impl.portal.RemoteDesktop;
+UseIn=@NKCF_PORTAL_USE_IN@;

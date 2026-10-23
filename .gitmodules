@@ -1,0 +1,3 @@
+[submodule "third_party/libei"]
+	path = third_party/libei
+	url = https://gitlab.freedesktop.org/libinput/libei.git
